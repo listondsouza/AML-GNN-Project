@@ -39,3 +39,9 @@ data/generated/*.txt
 # OS files
 .DS_Store
 Thumbs.db
+
+models/*.pkl
+models/*.joblib
+models/*.keras
+models/*.h5
+models/*.json
