@@ -1,0 +1,12 @@
+Status,Check,Detail
+PASS,Row / positive counts in expected range,"6,924,049 rows, 3,565 positives"
+PASS,Row count equals raw,"raw 6,924,049 vs processed 6,924,049"
+PASS,Target column identical to raw,100.0000% identical
+PASS,Timestamps identical to raw,100.0000% identical
+WARN,Thin-tail days present,223 rows / 134 laundering cases - evaluate main window and tail separately
+PASS,3a Train period ends before test period starts,latest train 2022-09-08 16:06:00 | earliest test 2022-09-08 16:06:00
+PASS,3a No transaction in both train and test,Transaction ID overlap check
+FAIL,3b Future-invariance of causal features,"these features depend on the future: ['Sender Prior Outgoing Amount Total', 'Sender Outgoing Amount Last 24 Hours']"
+PASS,3c No single feature is near-perfect,strongest single feature: Is New Counterparty Pair (AUC strength 0.806)
+PASS,3d Shuffled-label model is at chance level,"ROC-AUC 0.331, PR-AUC 0.00045 (prevalence 0.00067)"
+WARN,3e Train/test feature drift,"6 feature(s) with KS > 0.30, e.g. ['Receiver Prior Incoming Txn Count', 'Day of Week', 'Receiver Incoming Txns Last 7 Days', 'Receiver Bank Prior Txn Count'] (cumulative counters grow with time)"
