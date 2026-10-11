@@ -1,0 +1,102 @@
+,Importance
+Payment Format_ACH,0.18066339
+Sender Triangle Count,0.17800872
+Payment Format_Reinvestment,0.066535786
+Sender Bank Country_No Single Country,0.038505387
+Unique Receivers,0.03629927
+Is Currency Same,0.029481322
+Payment Currency_Bitcoin,0.029430764
+Receiver Bank Country_No Single Country,0.027694006
+Transactions Last 1 Hour,0.026075508
+Payment Format_Cheque,0.024690479
+Sender In Degree,0.023980275
+Transactions Last 30 Minutes,0.022305284
+Receiving Currency_Bitcoin,0.016808236
+Receiver In Degree,0.0122502055
+Payment Format_Credit Card,0.0118059395
+Sender Bank - Receiver Txn Count,0.011048984
+Time Since Previous Transaction,0.009958468
+Outgoing Transaction Count,0.008858442
+Incoming Transaction Count,0.0063827503
+Unique Senders,0.006339993
+Transactions Since First Seen,0.006270774
+Transactions Last 10 Minutes Receiver,0.0061599165
+Amount Received,0.0058092205
+Total Incoming Amount,0.005253166
+Sender Out Degree,0.0051494353
+Sender Bank Country_Switzerland,0.0050470047
+Receiver Triangle Count,0.0048850095
+Transactions Last 24 Hours,0.0048148236
+Is Cross Border,0.004372047
+Payment Currency_Brazil Real,0.00422066
+Amount Since First Seen,0.004060137
+Sender PageRank,0.003941829
+Sender Bank - Sender Txn Count,0.0039275787
+Receiving Currency_Brazil Real,0.0038666008
+Amount Paid,0.0038538568
+Receiver Bank - Sender Txn Count,0.0037787817
+Receiver Bank - Receiver Txn Count,0.0036935296
+Receiver PageRank,0.003683679
+Receiving Currency_Shekel,0.0036638791
+Receiver Out Degree,0.0036258644
+Payment Currency_Canadian Dollar,0.0036151954
+Account Age Before Transaction,0.0036116433
+Payment Currency_Australian Dollar,0.0036023713
+Day of Week,0.0034813364
+Receiver Bank Country_Canada,0.0034383866
+Payment Currency_Mexican Peso,0.0034042383
+Payment Format_Cash,0.003390023
+Receiving Currency_Rupee,0.0033790176
+Receiver Bank Country_China,0.0033586926
+Receiving Currency_UK Pound,0.003305236
+Average Amount Last 24 Hours,0.0032806243
+Total Outgoing Amount,0.0032667143
+Amount Last 24 Hours,0.003256497
+Payment Currency_Ruble,0.003104904
+Receiver Community Size,0.0030944822
+Receiver Bank Country_Saudi Arabia,0.003086871
+Average Outgoing Amount,0.003064126
+Transaction Hour,0.0029771423
+Receiver Bank Country_India,0.002976681
+Receiver Bank Country_Australia,0.0029399008
+Transactions Last 7 Days,0.0029297478
+Receiver Bank Country_Switzerland,0.0028825714
+Receiving Currency_Mexican Peso,0.0028806555
+Transactions Last 10 Minutes,0.002851783
+Receiving Currency_Australian Dollar,0.0027442055
+Payment Currency_UK Pound,0.0027254473
+Payment Currency_Saudi Riyal,0.002616224
+Receiving Currency_Saudi Riyal,0.0025529927
+Average Incoming Amount,0.0023658203
+Sender Bank Country_Unknown,0.002352231
+Payment Currency_Euro,0.0023279767
+Sender Bank Country_Saudi Arabia,0.0022936605
+Receiving Currency_Yuan,0.0022916566
+Receiving Currency_Ruble,0.0022848472
+Receiver Bank Country_Unknown,0.002250079
+Sender Community Size,0.002243916
+Payment Currency_US Dollar,0.002228725
+Payment Currency_Swiss Franc,0.0021911915
+Receiving Currency_Canadian Dollar,0.0021513593
+Receiver Bank Country_Japan,0.0020899053
+Sender Bank Country_United States,0.0020539064
+Payment Currency_Shekel,0.0020045894
+Payment Currency_Yuan,0.002004272
+Payment Currency_Rupee,0.0020014516
+Receiver Bank Country_United Kingdom,0.0019640382
+Receiving Currency_Euro,0.0019251268
+Receiver Bank Country_Eurozone,0.0018686267
+Sender Bank Country_India,0.0017335193
+Sender Bank Country_Eurozone,0.0016683369
+Sender Bank Country_Australia,0.001499454
+Receiver Bank Country_United States,0.0014857793
+Sender Bank Country_Japan,0.0012212661
+Sender Bank Country_China,0.001121481
+Receiving Currency_US Dollar,0.0010887602
+Sender Bank Country_United Kingdom,0.0010510106
+Receiving Currency_Swiss Franc,0.0009911717
+Sender Bank Country_Canada,0.00086822646
+Payment Currency_Yen,0.0006936948
+Receiving Currency_Yen,0.0006262677
+Payment Format_Bitcoin,3.8934046e-05
+Payment Format_Wire,0.0

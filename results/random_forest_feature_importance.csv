@@ -1,0 +1,102 @@
+,Importance
+Payment Format_ACH,0.18141150311607662
+Outgoing Transaction Count,0.05281173214615692
+Time Since Previous Transaction,0.04817331269823838
+Incoming Transaction Count,0.041884622695864016
+Payment Format_Cheque,0.03809123749371604
+Amount Received,0.034175970981331676
+Transactions Last 30 Minutes,0.03406433629262841
+Unique Receivers,0.030971784170033427
+Amount Paid,0.030942771360627622
+Transactions Last 24 Hours,0.029397541144104405
+Transactions Last 1 Hour,0.028768878900148016
+Sender Out Degree,0.027558614899830112
+Payment Format_Reinvestment,0.026152423525912776
+Account Age Before Transaction,0.025154869192328094
+Receiver In Degree,0.021965005668948163
+Payment Format_Credit Card,0.02029308718817332
+Receiver Bank - Sender Txn Count,0.019034113848084663
+Unique Senders,0.018844745737873987
+Total Incoming Amount,0.01721704944588203
+Amount Last 24 Hours,0.016104723589056284
+Average Amount Last 24 Hours,0.016020373810915332
+Receiver Bank - Receiver Txn Count,0.01589293092022171
+Sender Bank - Sender Txn Count,0.01528731318926787
+Transactions Last 7 Days,0.01522538958955703
+Transactions Last 10 Minutes,0.01467471664254644
+Sender Triangle Count,0.014489546004542338
+Amount Since First Seen,0.013542459955579022
+Transactions Since First Seen,0.012890965773113659
+Average Incoming Amount,0.012293731814250506
+Sender In Degree,0.01207483073816461
+Sender Bank - Receiver Txn Count,0.011478402701049144
+Transaction Hour,0.010954061062844935
+Receiver Triangle Count,0.009815527787429017
+Average Outgoing Amount,0.008811313628763208
+Sender PageRank,0.008640264745483251
+Total Outgoing Amount,0.008276519028693863
+Transactions Last 10 Minutes Receiver,0.006894592202810436
+Receiver Community Size,0.005372722925012491
+Day of Week,0.005333412803927794
+Receiver Out Degree,0.0050213627282033445
+Sender Community Size,0.004393768750735551
+Payment Format_Cash,0.004111960709924947
+Is Cross Border,0.003838066512023583
+Is Currency Same,0.002810510958620102
+Receiver PageRank,0.0024850850183940087
+Payment Currency_Bitcoin,0.001385905189086807
+Sender Bank Country_United States,0.001219122104401583
+Payment Format_Bitcoin,0.0009677501850782632
+Sender Bank Country_No Single Country,0.0009258674877907567
+Receiver Bank Country_No Single Country,0.0007001769791671453
+Payment Format_Wire,0.0006749916374608119
+Sender Bank Country_Eurozone,0.0006010197123692478
+Payment Currency_Euro,0.0005091886027926824
+Receiving Currency_Euro,0.0005005099482056174
+Receiver Bank Country_United States,0.0004658437643289825
+Receiver Bank Country_Eurozone,0.00046129975037326177
+Receiving Currency_Bitcoin,0.0004133227481329834
+Receiving Currency_US Dollar,0.0003937603847523853
+Receiver Bank Country_China,0.0003841262569251247
+Receiving Currency_Yuan,0.00033001247437799925
+Payment Currency_Rupee,0.00031213230651231646
+Payment Currency_US Dollar,0.00030035681683517605
+Receiver Bank Country_Switzerland,0.0002939444158426135
+Sender Bank Country_India,0.00026421674921570326
+Receiver Bank Country_Unknown,0.0002632814559011737
+Receiving Currency_Rupee,0.0002595914865779182
+Sender Bank Country_China,0.00025518042543495433
+Receiving Currency_Brazil Real,0.0002522054714348557
+Payment Currency_Brazil Real,0.00022653911295057944
+Receiver Bank Country_India,0.00022438917020403576
+Sender Bank Country_Unknown,0.00021188280217767876
+Payment Currency_Yuan,0.00020070107938691503
+Receiving Currency_Shekel,0.0001952136229096157
+Receiver Bank Country_Australia,0.0001945489725154851
+Payment Currency_Swiss Franc,0.00018645226222929347
+Receiver Bank Country_Saudi Arabia,0.00018620780805817972
+Sender Bank Country_Switzerland,0.00018456108056402414
+Receiving Currency_Swiss Franc,0.00017156820547236358
+Payment Currency_Saudi Riyal,0.00016382198799163482
+Payment Currency_Shekel,0.00016170026623681482
+Receiving Currency_Australian Dollar,0.000146111181117937
+Sender Bank Country_Japan,0.00014445790468374135
+Receiver Bank Country_Japan,0.00013121692041557592
+Receiving Currency_Yen,0.00012610529881705793
+Receiving Currency_Saudi Riyal,0.00011254416186826098
+Payment Currency_Australian Dollar,0.00011042086877615309
+Sender Bank Country_Australia,0.0001056453967205357
+Receiving Currency_Canadian Dollar,0.00010122988439789551
+Sender Bank Country_Saudi Arabia,9.846347638516695e-05
+Payment Currency_Canadian Dollar,9.274445011228103e-05
+Payment Currency_Yen,8.975263718493215e-05
+Receiving Currency_Ruble,8.946878846343288e-05
+Payment Currency_Ruble,8.451025937622958e-05
+Receiver Bank Country_Canada,8.119263628375308e-05
+Payment Currency_Mexican Peso,7.738030291148442e-05
+Receiving Currency_UK Pound,7.321304526445503e-05
+Payment Currency_UK Pound,6.65291482968227e-05
+Receiver Bank Country_United Kingdom,6.156257867580052e-05
+Receiving Currency_Mexican Peso,4.59912621738129e-05
+Sender Bank Country_Canada,3.601519361037637e-05
+Sender Bank Country_United Kingdom,3.5897783679935174e-05
